@@ -69,7 +69,8 @@ $$
 
 $$
 \begin{aligned}
-0& \times\frac{1}{2} + 0\times\frac{1}{4} + 0\times\frac{1}{8} + 1\times\frac{1}{16} + 1\times\frac{1}{32} + \cdots\\
+&0.0\dot{0}01\dot{1}_{(2)}\\
+ &= 0 \cdot\frac{1}{2} + 0\cdot\frac{1}{4} + 0\cdot\frac{1}{8} + 1\cdot\frac{1}{16} + 1\cdot\frac{1}{32} + 0\cdot\frac{1}{64} + 0\cdot\frac{1}{128} + 1\cdot\frac{1}{256} + 1\cdot\frac{1}{512} + \cdots\\
 &= \frac{1}{16} + \frac{1}{32} + \frac{1}{256} + \frac{1}{512} + \frac{1}{4096} + \frac{1}{8192} + \cdots\\
 &= \left( \frac{1}{16} + \frac{1}{32} \right) + \frac{1}{16}\left( \frac{1}{16} + \frac{1}{32} \right) + \frac{1}{16^2}\left( \frac{1}{16} + \frac{1}{32} \right) + \cdots \\
 &= \frac{3}{32} + \frac{3}{32}\cdot\frac{1}{16} + \frac{3}{32}\cdot\frac{1}{16^2} + \cdots\\
