@@ -2,6 +2,9 @@
 
 ここには，「[データ分析](https://www-tlab.math.ryukoku.ac.jp/wiki/?Data)」で用いるファイルの一部を置いてます．
 
+- 2024年度
+    - 授業のページ: https://www-tlab.math.ryukoku.ac.jp/wiki/?Data/2024
+    - Colab notebook など: https://github.com/takatakamanbou/Data/tree/2024
 - 2023年度
     - 授業のページ: https://www-tlab.math.ryukoku.ac.jp/wiki/?Data/2023
     - Colab notebook など: https://github.com/takatakamanbou/Data/tree/2023
