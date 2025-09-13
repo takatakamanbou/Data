@@ -4,7 +4,7 @@
 
 - 2025年度
     - 授業のページ: https://www-tlab.math.ryukoku.ac.jp/wiki/?Data/2025
-    - Colab notebook など: https://github.com/takatakamanbou/Data
+    - Colab notebook など: https://github.com/takatakamanbou/Data/tree/2025
 - 2024年度
     - 授業のページ: https://www-tlab.math.ryukoku.ac.jp/wiki/?Data/2024
     - Colab notebook など: https://github.com/takatakamanbou/Data/tree/2024
